@@ -1,0 +1,7 @@
+{
+    "botToken": "",
+    "ytChannelId": "",
+    "notifsChannelId": "",
+    "newVidCheckIntervalInMinutes": 1,
+    "notifMsg": "**{author}** just uploaded a new video, go check it out!\n{url}"
+}

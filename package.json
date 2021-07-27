@@ -1,0 +1,29 @@
+{
+  "name": "yt-notifs",
+  "version": "1.0.0",
+  "description": "Sends a notification when a new video is uploaded on a specific youtube channel.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/James-Bennett-295/yt_notifs_bot.git"
+  },
+  "keywords": [
+    "discord",
+    "youtube",
+    "notifications",
+    "bot"
+  ],
+  "author": "James Bennett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/James-Bennett-295/yt_notifs_bot/issues"
+  },
+  "homepage": "https://james-bennett-295.github.io/pages/yt_notifs_bot/main.html",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "rss-parser": "^3.12.0"
+  }
+}
