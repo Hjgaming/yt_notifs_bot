@@ -3,5 +3,5 @@
     "ytChannelId": "",
     "notifsChannelId": "",
     "newVidCheckIntervalInMinutes": 1,
-    "notifMsg": "**{author}** just uploaded a new video, go check it out!\n{url}"
+    "notifMsg": "**{author}** just uploaded a new video, @everyone go check it out!\n{url}"
 }
